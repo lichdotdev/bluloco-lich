@@ -35,7 +35,7 @@ hand:
 
 1. Open lich and go to **Settings → Appearance**.
 2. Next to **Theme**, click **Import**.
-3. Paste `https://github.com/omartelo/bluloco-lich` and click **Install**.
+3. Paste `https://github.com/lichdotdev/bluloco-lich` and click **Install**.
 4. Pick **Bluloco Dark** or **Bluloco Light** in the theme picker. The terminal
    picker defaults to **Match app theme**, so one pick dresses the interface and
    the terminal panes alike.
@@ -47,7 +47,7 @@ Later releases are taken with **Update** on the theme's row.
 An absolute path is an accepted remote, so a clone installs the same way:
 
 ```bash
-git clone https://github.com/omartelo/bluloco-lich.git
+git clone https://github.com/lichdotdev/bluloco-lich.git
 ```
 
 Then paste the absolute path of the clone into **Settings → Appearance → Import**.
