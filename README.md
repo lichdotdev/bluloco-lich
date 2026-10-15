@@ -73,6 +73,12 @@ The terminal palette is the upstream
 [kitty port](https://github.com/uloco/bluloco.nvim/tree/main/terminal-themes/kitty)
 verbatim, cursor and selection included.
 
+The `syntax` colors, which lich's native window uses for code in the review,
+diff and file views, are the `tokenColors` of the official VS Code themes
+[Bluloco Dark](https://github.com/uloco/theme-bluloco-dark) and
+[Bluloco Light](https://github.com/uloco/theme-bluloco-light) (non-italic
+variants), each TextMate scope mapped to the equivalent highlighting tag.
+
 ### Status tones
 
 `tone-pass` and `tone-wait` are what lich 0.53.0 reads for "passed" and "waiting
