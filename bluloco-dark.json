@@ -77,10 +77,10 @@
     "typeName": "#ff6480",
     "className": "#ff6480",
     "namespace": "#ff839b",
-    "labelName": "#50acae",
-    "annotation": "#50acae",
+    "labelName": "#5fb9bc",
+    "annotation": "#5fb9bc",
     "tagName": "#3691ff",
-    "angleBracket": "#3691ff",
+    "angleBracket": "#7a82da",
     "attributeName": "#ff936a",
     "string": "#f9c859",
     "regexp": "#f9c859",
@@ -104,13 +104,14 @@
       "strikethrough": true
     },
     "monospace": "#f9c859",
-    "link": "#3691ff",
+    "link": "#10b1fe",
     "url": "#10b1fe",
     "list": "#ce9887",
     "quote": "#9f7efe",
     "contentSeparator": "#abb2bf",
     "inserted": "#3fc56b",
     "deleted": "#ff6480",
-    "invalid": "#fc2f52"
+    "invalid": "#ff2e3f",
+    "derefOperator": "#7a82da"
   }
 }

@@ -69,7 +69,7 @@
     "atom": "#0098dd",
     "standard(typeName)": "#0098dd",
     "changed": "#0098dd",
-    "variableName": "#383a42",
+    "variableName": "#484848",
     "function(variableName)": "#23974a",
     "function(propertyName)": "#23974a",
     "constant(variableName)": "#823ff1",
@@ -77,10 +77,10 @@
     "typeName": "#d52753",
     "className": "#d52753",
     "namespace": "#ee5672",
-    "labelName": "#047485",
-    "annotation": "#047485",
+    "labelName": "#006962",
+    "annotation": "#006962",
     "tagName": "#275fe4",
-    "angleBracket": "#275fe4",
+    "angleBracket": "#7a82da",
     "attributeName": "#df631c",
     "string": "#c5a332",
     "regexp": "#a05a48",
@@ -111,6 +111,7 @@
     "contentSeparator": "#383a42",
     "inserted": "#23974a",
     "deleted": "#d52753",
-    "invalid": "#ff0000"
+    "invalid": "#c65f5d",
+    "derefOperator": "#7a82da"
   }
 }
