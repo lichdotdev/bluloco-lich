@@ -2,6 +2,7 @@
   "id": "bluloco-light",
   "name": "Bluloco Light",
   "scheme": "light",
+  "pair": "bluloco-dark",
   "app": {
     "background": "#f9f9f9",
     "foreground": "#383a42",
