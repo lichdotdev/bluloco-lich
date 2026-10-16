@@ -112,6 +112,8 @@
     "inserted": "#23974a",
     "deleted": "#d52753",
     "invalid": "#c65f5d",
-    "derefOperator": "#7a82da"
+    "derefOperator": "#7a82da",
+    "definition(local(variableName))": "#40b8c5",
+    "standard(variableName)": "#23974a"
   }
 }
