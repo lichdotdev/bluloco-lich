@@ -5,7 +5,7 @@
 
 ## Overview
 
-A fancy and sophisticated designer theme for [lich](https://github.com/omartelo/lich),
+A fancy and sophisticated designer theme for [lich](https://github.com/lichdotdev/lich),
 with due regards to aesthetics, contrast and readability. There is a light and
 dark variant.
 
